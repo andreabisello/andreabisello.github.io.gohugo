@@ -1,0 +1,5 @@
+baseURL = "https://andreabisello.github.io"
+languageCode = "it-IT"
+title = "Valentina"
+theme = "uilite"
+

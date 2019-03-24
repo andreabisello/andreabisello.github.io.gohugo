@@ -2,14 +2,39 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uber",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "Gennaio 2014 - Adesso",
+			"company" : "THRON",
+			"description" : "Mi occupo di Software Quality Assurance. Sviluppo software in Scala e Python che verifica il funzionamento di altro software. Dirigo un piccolo team e mi preoccupo di migliorare costantemente i processi per aumentare la qualità del lavoro."
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "Dicembre 2018",
+			"company" : "autobernardello.it",
+			"description" : "Realizzazione e messa in opera, con servizio di compra-vendita auto online. https://www.autobernardello.it"
+		},
+		{
+			"timeperiod" : "Novembre 2018",
+			"company" : "sondaprezzi.it",
+			"description" : "Sito che permette di venire contattati tramite email quando il prezzo di un prodotto amazon cala di prezzo. Integrazione Aws Php. https://www.sondaprezzi.it"
+		},
+		{
+			"timeperiod" : "Giugno 2011 - Gennaio 2014",
+			"company" : "THRON",
+			"description" : "Mi sono occupato di programmazione Actionscript3 (Flash) , html e javascript."
+		},
+		{
+			"timeperiod" : "Giugno 2011",
+			"company" : "machenotizia.info",
+			"description" : "Sito di pubbliacazione notizie, con area amministrativa e canale youtube. https://www.machenotizia.info"
+		},
+		{
+			"timeperiod" : "Febbraio 2007 - Maggio 2011",
+			"company" : "THRON",
+			"description" : "Mi sono occupato di Customer Service, dalla gestione del cliente alla ricerca della soluzione del problema."
+		},
+		{
+			"timeperiod" : "Agosto 2006 - Dicembre 2007",
+			"company" : "B&B di Bubola Raffaele S.a.s",
+			"description" : "Consulente Junior Sap, moduli BW e BCS. Sviluppavo Query sui DB Sap e facevo formazione presso i clienti."
 		}
 	]
 }

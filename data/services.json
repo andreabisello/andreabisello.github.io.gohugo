@@ -2,14 +2,19 @@
 	"title" : "Services",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "wifi",
+			"title" : "Siti Web",
+			"description" : "Metto online siti web ad alte prestazioni, ottimizzati Google, fruibili da tutti i dispositivi"
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "pencil-ruler",
+			"title" : "Software Quality Assurance",
+			"description" : "Test automatici e manuali ed integrazioni. Dall'esperienza utente ai test di integrazione."
+		},
+		{
+			"icon" : "graduation-cap",
+			"title" : "Consulenza informatica",
+			"description" : "Soluzioni per tutti i livelli di esperienza, sopratutto per chi di mestiere fa ben altro."
 		}
 	]
 }
